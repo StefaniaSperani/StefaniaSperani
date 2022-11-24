@@ -8,5 +8,5 @@ I'm a student of Boolean Careers class #74
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefaniaSperani&show_icons=true&layout=compact&theme=midnight-purple)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=StefaniaSperani&theme=midnight-purple&background=000000)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=midnight-purple)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
