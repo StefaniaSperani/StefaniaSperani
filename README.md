@@ -2,7 +2,7 @@
 <h3 align="left">I'm a ex student of Boolean Careers class #74 and a passionate frontend developer from Italy</h3>
 
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **Flutter, Node.js**
 
 - 📫 How to reach me **sperani.stefania@hotmail.com**
 
